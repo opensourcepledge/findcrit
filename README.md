@@ -8,6 +8,10 @@ SPDX-License-Identifier: Apache-2.0
 This tool finds the most depended upon maintainers across multiple Open Source ecosystems, using data from
 [ecosyste.ms][ecosyste.ms].
 
+## Status
+
+A lot of important parts are in place, but more work needs to be done before this tool can be generally used.
+
 ## Explanation
 
 Here's how this broadly works:
